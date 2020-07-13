@@ -42,7 +42,7 @@ namespace Vota
 
             if (manuel >= 200)
             {
-                Console.WriteLine("Manuel Rosario es el Ganador con un total de " + manuel + "votos");
+                Console.WriteLine("Manuel Rosario es el Ganador con un total de " + manuel + " votos");
             }
             else
             {
